@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import ClassComponent from './components';
 
-function App() {
+const App=()=> {
   return (
     <div>
       <header className="App-header">
